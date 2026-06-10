@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hope Property Sourcer</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+            padding: 80px 20px;
+            background-color: #0f172a;
+            color: #f8fafc;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #1e293b;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        h1 { color: #38bdf8; font-size: 2.5rem; margin-bottom: 10px; }
+        p { color: #94a3b8; font-size: 1.2rem; line-height: 1.6; }
+        .badge {
+            display: inline-block;
+            background: #0284c7;
+            color: white;
+            padding: 6px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hope Property Sourcer</h1>
+        <p>Your premier partner for property management and short-term rental optimization.</p>
+        <span class="badge">Site Launching Soon</span>
+    </div>
+</body>
+</html>
